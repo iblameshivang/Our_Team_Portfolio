@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Hustlers — Digital Collective",
   "scripts": {
-    "dev": "live-server --port=3000 \"portfolio of hustlers\""
+    "dev": "live-server --port=3000 ."
   },
   "devDependencies": {
     "live-server": "^1.2.2"
