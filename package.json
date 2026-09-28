@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-of-hustlers",
+  "version": "1.0.0",
+  "description": "Hustlers — Digital Collective",
+  "scripts": {
+    "dev": "live-server --port=3000 \"portfolio of hustlers\""
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
